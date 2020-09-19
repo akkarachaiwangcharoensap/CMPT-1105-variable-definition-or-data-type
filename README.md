@@ -1,4 +1,4 @@
-# CMPT-1105-variable-definition-or-data-type
+# CMPT 1105 Variable Definition Or Data Type
 
 The variable definition or variable data type is the type of the variable.
 In Python, you don't need to declare the variable type/data type. Your interpreter will automatically assign the data type to your variable.
