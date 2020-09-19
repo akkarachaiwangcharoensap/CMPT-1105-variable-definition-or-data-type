@@ -1,6 +1,7 @@
 # CMPT-1105-variable-definition-or-data-type
 
-In Python, the variable definition or variable data type is the type of the variable.
+The variable definition or variable data type is the type of the variable.
+In Python, you don't need to declare the variable type/data type. Your interpreter will automatically assign the data type to your variable.
 
 ```python
 # Python
@@ -9,7 +10,7 @@ x = 10 # this is an integer
 x = "Hello, I am Aki" # this is a string
 ```
 
-In other language such as Java, you will need to declare the variable data type.
+However, in other programming languages such as Java, C#, C++ you will need to declare the variable data type for the compiler to understand and process.
 
 ```java
 // Java
